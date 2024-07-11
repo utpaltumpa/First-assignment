@@ -108,3 +108,13 @@
     border-radius: 5px;
     box-shadow: 0px 6px 50px 0px pink;
 }
+.picture{
+     width: 1140px;
+     height: 314px;
+     margin-left: 150px;
+}
+.skill{
+    margin-left: 1100px;
+    padding: 20px;
+   
+}
