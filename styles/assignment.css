@@ -1,0 +1,80 @@
+.prime{
+    margin: 50px 550px;
+    background-image: url(../images/Hero-bg.png);
+   
+    
+    
+}
+.ordinary{
+    text-align: center;
+    margin-top: 32px;
+    
+
+}
+.simple{
+    text-align: center;
+}
+.normal{
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+.middle{
+    text-align: center;
+    margin-top: 100px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 50px 10px 50px;
+    padding: 20px;
+}
+.banner-content{
+    width: 477px;
+    height: 220px;
+    margin-left: 200px;
+}
+.banner-picture{
+    margin-right: 200px;
+}
+.banner-first{
+    margin-top: 20px;
+    padding: 10px;
+}
+.second-banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 50px 10px 50px;
+    padding: 20px;
+}
+.second-banner-picture{
+    margin-left: 200px;
+}
+.second-banner-content{
+    margin-right: 400px;
+    width: 477px;
+    height: 220px;
+}
+.second-banner-main{
+    margin-top: 15px;
+    padding: 10px;
+}
+.third-banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 50px 10px 50px;
+    padding: 20px;
+}
+.third-banner-content{
+    width: 477px;
+    height: 220px;
+    margin-left: 200px;
+}
+.third-banner-picture{
+    margin-right: 300px;
+   
+}
+.third-banner-main{
+    margin-top: 15px;
+    padding: 10px;
+}
